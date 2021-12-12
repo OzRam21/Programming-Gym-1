@@ -19,7 +19,7 @@ In summary, just as someone may dream of being a body builder, I dream of being 
 
 This particular "Programming Gym" will only use one book as the learning material and guide for progressing. This may change later on and information will be updated accordingly. The book referenced is "Automate the Boring Stuff with Python" by Al Sweigart, which is published by No Starch Press. 
 
-In order to respect the copyright of the book and prevent copyright infringement, none of the demonstration python programs illustrated in the chapters or closely similar programs will be posted. These programs are available on the No Starch Press website. Towards the end of each chapter in this book, there are "Practice Projects" that list tasks for the reader to complete through their own original code, to solidify the learning material. These are only original programs will be available in this repo.    
+In order to respect the copyright of the book and prevent copyright infringement, none of the demonstration python programs illustrated in the chapters or closely similar programs will be posted. These programs are available on the No Starch Press website. Towards the end of each chapter in this book, there are "Practice Projects" that list tasks for the reader to complete through their own original code, to solidify the learning material. These are the only original programs will be available in this repo.    
 
 ## Technologies
 
