@@ -32,5 +32,5 @@ def commaString(entryList): # defining the function that will convert a list int
                 # Concatonate the list value and seperate with a comma and a space
         return outString
 
-spam = ['beaver',43, 56,28.4, 7878.3, 'bean']
+spam = ['beaver',43, 56,28.4, 7878.3, 'bean'] # This is an example list
 print(commaString(spam))
